@@ -5,7 +5,7 @@ export const SITE = {
 	basePathname: '/',
 
 	title: 'Pen Place | National Landing · Arlington · Amazon HQ2 Site',
-	description: 'Future home of Amazon's HQ2 and heart of what's happening in Arlington. Read all about it.',
+	description: 'Future home of Amazon HQ2 and heart of what is happening in Arlington. Read all about it.',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
 	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
